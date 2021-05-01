@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "The Frame Shoppe Project", "The Frame Shoppe Project\The Frame Shoppe Project.vbproj", "{834A12F6-1337-4424-BD5F-4D369D720812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{834A12F6-1337-4424-BD5F-4D369D720812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834A12F6-1337-4424-BD5F-4D369D720812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834A12F6-1337-4424-BD5F-4D369D720812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834A12F6-1337-4424-BD5F-4D369D720812}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3932B95C-692E-4A53-8CBB-978C69F51304}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,47 @@
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project\The Frame Shoppe Project\bin\Debug\The Frame Shoppe Project.exe.config
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project\The Frame Shoppe Project\bin\Debug\The Frame Shoppe Project.exe
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project\The Frame Shoppe Project\bin\Debug\The Frame Shoppe Project.pdb
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project\The Frame Shoppe Project\bin\Debug\The Frame Shoppe Project.xml
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project\The Frame Shoppe Project\obj\Debug\The Frame Shoppe Project.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project\The Frame Shoppe Project\obj\Debug\The_Frame_Shoppe_Project.frmCover.resources
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project\The Frame Shoppe Project\obj\Debug\The_Frame_Shoppe_Project.frmFrame.resources
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project\The Frame Shoppe Project\obj\Debug\The_Frame_Shoppe_Project.frmMain.resources
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project\The Frame Shoppe Project\obj\Debug\The_Frame_Shoppe_Project.frmMat.resources
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project\The Frame Shoppe Project\obj\Debug\The_Frame_Shoppe_Project.Resources.resources
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project\The Frame Shoppe Project\obj\Debug\The Frame Shoppe Project.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project\The Frame Shoppe Project\obj\Debug\The Frame Shoppe Project.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project\The Frame Shoppe Project\obj\Debug\The Frame Shoppe Project.exe
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project\The Frame Shoppe Project\obj\Debug\The Frame Shoppe Project.xml
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project\The Frame Shoppe Project\obj\Debug\The Frame Shoppe Project.pdb
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project\The Frame Shoppe Project\obj\Debug\The_Frame_Shoppe_Project.EnterHeight.resources
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project\The Frame Shoppe Project\obj\Debug\The_Frame_Shoppe_Project.EnterWidth.resources
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\bin\Debug\The Frame Shoppe Project.exe.config
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\bin\Debug\The Frame Shoppe Project.exe
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\bin\Debug\The Frame Shoppe Project.pdb
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\bin\Debug\The Frame Shoppe Project.xml
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The Frame Shoppe Project.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The_Frame_Shoppe_Project.frmCover.resources
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The_Frame_Shoppe_Project.frmFrame.resources
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The_Frame_Shoppe_Project.frmMain.resources
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The_Frame_Shoppe_Project.frmMat.resources
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The_Frame_Shoppe_Project.Resources.resources
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The Frame Shoppe Project.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The Frame Shoppe Project.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The Frame Shoppe Project.exe
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The Frame Shoppe Project.xml
+C:\Users\User\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The Frame Shoppe Project.pdb
+C:\Users\anast\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\bin\Debug\The Frame Shoppe Project.exe.config
+C:\Users\anast\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\bin\Debug\The Frame Shoppe Project.exe
+C:\Users\anast\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\bin\Debug\The Frame Shoppe Project.pdb
+C:\Users\anast\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\bin\Debug\The Frame Shoppe Project.xml
+C:\Users\anast\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The Frame Shoppe Project.vbprojAssemblyReference.cache
+C:\Users\anast\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The_Frame_Shoppe_Project.frmCover.resources
+C:\Users\anast\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The_Frame_Shoppe_Project.frmFrame.resources
+C:\Users\anast\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The_Frame_Shoppe_Project.frmMain.resources
+C:\Users\anast\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The_Frame_Shoppe_Project.frmMat.resources
+C:\Users\anast\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The_Frame_Shoppe_Project.Resources.resources
+C:\Users\anast\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The Frame Shoppe Project.vbproj.GenerateResource.cache
+C:\Users\anast\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The Frame Shoppe Project.vbproj.CoreCompileInputs.cache
+C:\Users\anast\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The Frame Shoppe Project.exe
+C:\Users\anast\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The Frame Shoppe Project.xml
+C:\Users\anast\Desktop\coa\Visual Basic\The Frame Shoppe Project - Copy\The Frame Shoppe Project\obj\Debug\The Frame Shoppe Project.pdb
